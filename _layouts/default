@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>Craft &mdash; Website Template by Colorlib</title>
+  <title>{{ title }}</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -61,13 +61,6 @@
               <a class="nav-link" href="contact.html">Contact</a>
             </li>
           </ul>
-
-          <div class="navbar-nav ml-auto">
-            <form method="post" class="search-form">
-              <span class="icon ion ion-search"></span>
-              <input type="text" class="form-control" placeholder="Search...">
-            </form>
-          </div>
 
         </div>
       </div>
